@@ -30,7 +30,7 @@ Cuando el repositorio esté listo, **sustituye** en la **fila de tu empresa** la
 | Logo | Empresa | Participantes | Enlace al repositorio |
 | :--: | :-- | :-- | :-- |
 | <img src="img/altaid.png" height="32" alt="Altaid Formación" /> | Altaid | Quijada Alcaide, José Antonio | *pendiente* |
-| <img src="img/nttdata.svg" height="18" alt="NTT Data" /> | NTT Data | Doblas Mejías, José Carlos | *pendiente* |
+| <img src="img/nttdata.svg" height="18" alt="NTT Data" /> | NTT Data | Doblas Mejías, José Carlos | https://github.com/jdobmej0511/Presentacion_ffoe_NTTData_DoblasMejiasJoseCarlos.git |
 | <img src="img/navicom.jpg" height="18" alt="Navicom" /> | Navicom | Aragonés Martín, Carlos | *pendiente* |
 | <img src="img/rewe.svg" height="22" alt="REWE" /> | REWE | Agüera Cuadra, Alba<br>García Gálvez, Juan Antonio | https://github.com/albita-8/Presentaciones-duales-de-1-DAW-ma-ana-del-curso-2025-2026 |
 | <img src="img/ideanto.png" height="22" alt="Ideanto" /> | IDEANTO | Caballero Castillo, Juan | *pendiente* |
